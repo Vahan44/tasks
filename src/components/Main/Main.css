@@ -1,0 +1,31 @@
+.main{
+    width: 30%;
+    margin-left: 150px;
+}
+
+.bigtext{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+
+.text p{
+    color:#3c3b3f;
+}
+
+.main button{
+    background-color: #FAD77B;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    width: 45%;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
